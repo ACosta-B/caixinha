@@ -1,0 +1,12 @@
+
+.paragrafo3 {
+    color: blue;
+    background-color:darkslategrey;
+}
+
+.titulo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: darkorange;
+    background-color: burlywood;
+}
